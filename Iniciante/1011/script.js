@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('1011/stdin', 'utf8');
+var input = require('fs').readFileSync('Iniciante/1011/stdin', 'utf8');
 var lines = input.split('\n');
 
 const PI = 3.14159;

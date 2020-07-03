@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('1005/stdin', 'utf8');
+var input = require('fs').readFileSync('Iniciante/1005/stdin', 'utf8');
 var lines = input.split('\n');
 var notaA = lines.shift();
 var notaB = lines.shift();

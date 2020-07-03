@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('1017/stdin', 'utf8');
+var input = require('fs').readFileSync('Iniciante/1017/stdin', 'utf8');
 var lines = input.split('\n');
 
 var tempoGasto = lines.shift();

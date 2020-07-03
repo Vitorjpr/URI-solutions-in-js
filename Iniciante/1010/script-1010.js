@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('1010/stdin', 'utf8');
+var input = require('fs').readFileSync('Iniciante/1010/stdin', 'utf8');
 var lines = input.split('\n');
 
 var [ idItem1, qtdItem1, valorUnit1 ] = lines.shift().split(' ');
